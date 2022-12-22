@@ -1,0 +1,15 @@
+export const enGb = {
+    USERNAME: 'UserName',
+    EMAIL: 'Email',
+    PHONE_NUMBER: 'Phone Number',
+    PASSWORD: 'Password',
+    LOGIN_NAME: 'Login',
+    REGISTER: 'Register',
+    LOGIN: 'Login',
+    IMAGE: 'Image',
+    TITLE: 'Title',
+    DESCRIPTION: 'Description',
+    PRICE: 'Price',
+    CREATE_ITEM: 'Create Item',
+    ASD: 'ASD',
+}

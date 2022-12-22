@@ -1,0 +1,19 @@
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    background: url('../../assets/bg.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fccfcf;
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+}

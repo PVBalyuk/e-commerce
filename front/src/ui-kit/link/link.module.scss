@@ -1,0 +1,19 @@
+.link {
+    cursor: pointer;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    list-style: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    background: linear-gradient(180deg, rgba(185, 251, 255, 0.2) 0%, rgba(227, 220, 255, 0.2) 100%);
+    text-decoration: none;
+    color: rgb(56, 46, 117);
+    font-weight: 600;
+}
+
+.active {
+    text-decoration: underline;
+    color:rgb(25, 21, 53)
+}
